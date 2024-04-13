@@ -59,4 +59,5 @@ function render() {
   // render, or 'create a still image', of the scene
   renderer.render(scene, camera);
 }
-render();
+function test() {}
+//render();
